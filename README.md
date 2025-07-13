@@ -5,12 +5,6 @@ Designed with clean structure and best practices to demonstrate front-end develo
 
 ---
 
-## 📸 Preview
-
-<!-- add screenshot later-->
-
----
-
 ## 🚀 Features
 
 - Basic operations: add, subtract, multiply, divide
@@ -50,18 +44,17 @@ calculator/
 
 ## 🌐 Live Demo
 
-🔗 [View live on GitHub Pages](https://cailubfm.github.io/rechner/)
+🔗 https://cailubfm.github.io/rechner/
 
 ---
 
 ## 👨‍💻 Author
 
 **Caíque Bonfim**  
-GitHub: [@cailubfm](https://github.com/cailubfm)  
-Instagram Dev: [@cailubfm](https://instagram.com/cailubfm)
+GitHub: @cailubfm https://github.com/cailubfm
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the MIT License.
